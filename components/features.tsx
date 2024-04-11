@@ -48,19 +48,6 @@ export default function Features() {
               <h4 className="h4 mb-2">Mapa</h4>
               <p className="text-lg text-gray-400 text-center">Consulta el mapa para ver todas las recomendaciones de sitios para ir con tu perro y los sitios con alertas como petardos, orugas procesionarias...</p>
             </div>
-
-            {/* 4th item */}
-            <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="300" data-aos-anchor="[data-aos-id-blocks]">
-              <svg className="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-                <rect className="fill-current text-purple-800" width="64" height="64" rx="32" />
-                <g transform="translate(22 21)" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd">
-                  <path className="stroke-current text-purple-100" d="M17 22v-6.3a8.97 8.97 0 003-6.569A9.1 9.1 0 0011.262 0 9 9 0 002 9v1l-2 5 2 1v4a2 2 0 002 2h4a5 5 0 005-5v-5" />
-                  <circle className="stroke-current text-purple-300" cx="13" cy="9" r="3" />
-                </g>
-              </svg>
-              <h4 className="h4 mb-2">Perfiles</h4>
-              <p className="text-lg text-gray-400 text-center">Crea diferentes perfiles para tus diferentes perros. Cada recordatorio será personalizado para cada perfil.</p>
-            </div>
           </div>
 
         </div>
