@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Sign In - Open PRO',
-  description: 'Page description',
+  title: 'Dogfile',
+  description: 'Dogfile app',
 }
 
 import Link from 'next/link'
