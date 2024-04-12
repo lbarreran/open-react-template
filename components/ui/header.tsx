@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import MobileMenu from './mobile-menu'
+import Image from 'next/image'
 
 export default function Header() {
   return (
@@ -10,7 +11,7 @@ export default function Header() {
           <div className="shrink-0 mr-4">
             {/* Logo */}
             <Link href="/" className="block" aria-label="Cruip">
-            <img src="../../public/images/DOGFILE.png" alt="logo" className="w-16 h-8" />
+            <Image src="/../../images/dogfile.png" alt="logo" width="50" height="50" className="w-16 h-8" />
             </Link>
           </div>
 
