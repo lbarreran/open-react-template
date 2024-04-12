@@ -18,7 +18,7 @@ export default function Hero() {
                 <a className="btn text-white bg-purple-800 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://dogfile.netlify.app/">Empezar</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-gray-800 bg-gray-200 hover:bg-gray-400 w-full sm:w-auto sm:ml-4" href="#0">Conctacto</a>
+                <a className="btn text-gray-800 bg-gray-200 hover:bg-gray-400 w-full sm:w-auto sm:ml-4" href="mailto:dogfileproject@gmail.com">Contacto</a>
               </div>
             </div>
           </div>
